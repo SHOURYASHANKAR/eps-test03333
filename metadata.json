@@ -1,0 +1,5 @@
+{
+  "name": "Esteem Group of Schools",
+  "description": "Modern, animated website for Esteem Public School (Chaliyama & Tungri) and B.M. DAV Public School.",
+  "requestFramePermissions": ["geolocation"]
+}
